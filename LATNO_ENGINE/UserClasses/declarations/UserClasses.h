@@ -7,3 +7,10 @@
 #include "SpawnActorButton.h"
 #include "PlayerExample.h"
 #include "TopDownPlayer.h"
+
+#include "Pawn.h"
+#include "King.h"
+#include "Queen.h"
+#include "Rook.h"
+#include "Bishop.h"
+#include "Knight.h"

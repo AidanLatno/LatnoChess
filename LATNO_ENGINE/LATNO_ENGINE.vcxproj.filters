@@ -45,6 +45,13 @@
     <ClCompile Include="UserClasses\definitions\TopDownPlayer.cpp" />
     <ClCompile Include="UserClasses\definitions\RadiusApp.cpp" />
     <ClCompile Include="UserClasses\definitions\ChessApp.cpp" />
+    <ClCompile Include="UserClasses\definitions\Piece.cpp" />
+    <ClCompile Include="UserClasses\definitions\King.cpp" />
+    <ClCompile Include="UserClasses\definitions\Pawn.cpp" />
+    <ClCompile Include="UserClasses\definitions\Queen.cpp" />
+    <ClCompile Include="UserClasses\definitions\Rook.cpp" />
+    <ClCompile Include="UserClasses\definitions\Knight.cpp" />
+    <ClCompile Include="UserClasses\definitions\Bishop.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="engine\declarations\Application.h" />
@@ -96,6 +103,13 @@
     <ClInclude Include="UserClasses\declarations\SillyApp.h" />
     <ClInclude Include="UserClasses\declarations\TopDownPlayer.h" />
     <ClInclude Include="UserClasses\declarations\ChessApp.h" />
+    <ClInclude Include="UserClasses\declarations\Piece.h" />
+    <ClInclude Include="UserClasses\declarations\Knight.h" />
+    <ClInclude Include="UserClasses\declarations\Pawn.h" />
+    <ClInclude Include="UserClasses\declarations\King.h" />
+    <ClInclude Include="UserClasses\declarations\Queen.h" />
+    <ClInclude Include="UserClasses\declarations\Bishop.h" />
+    <ClInclude Include="UserClasses\declarations\Rook.h" />
   </ItemGroup>
   <ItemGroup>
     <Media Include="resources\audio\canary.wav" />
