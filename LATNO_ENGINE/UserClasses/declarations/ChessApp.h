@@ -7,8 +7,8 @@ class ChessApp : public Latno::Application
 {
 public:
 	Scene* mainScene;
-	Actor* randObject;
 	InputManager* inputManager;
+	Actor* boardSquareList[8][8];
 
 	ALuint opening_music = SoundBuffer::get()->addSoundEffect("resources/audio/credits-opening1.ogg");
 

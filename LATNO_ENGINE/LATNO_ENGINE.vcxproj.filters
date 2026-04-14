@@ -163,6 +163,19 @@
     <Image Include="resources\textures\Idle\pos6L.png" />
     <Image Include="resources\textures\Idle\pos7L.png" />
     <Image Include="resources\textures\Idle\pos8L.png" />
+    <Image Include="resources\textures\white-square.png" />
+    <Image Include="resources\textures\pieces\black-bishop.png" />
+    <Image Include="resources\textures\pieces\black-king.png" />
+    <Image Include="resources\textures\pieces\black-knight.png" />
+    <Image Include="resources\textures\pieces\black-pawn.png" />
+    <Image Include="resources\textures\pieces\black-queen.png" />
+    <Image Include="resources\textures\pieces\black-rook.png" />
+    <Image Include="resources\textures\pieces\white-bishop.png" />
+    <Image Include="resources\textures\pieces\white-king.png" />
+    <Image Include="resources\textures\pieces\white-knight.png" />
+    <Image Include="resources\textures\pieces\white-pawn.png" />
+    <Image Include="resources\textures\pieces\white-queen.png" />
+    <Image Include="resources\textures\pieces\white-rook.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="libsndfile-1.dll" />
