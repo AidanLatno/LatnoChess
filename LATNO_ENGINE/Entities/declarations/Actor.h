@@ -80,6 +80,7 @@ namespace Latno
 
 			Coords direction = UP;
 			float velocity = 1.0f;
+			float speed = 0.0f;
 			
 
 			Actor(float _x, float _y,std::string SpritePath);

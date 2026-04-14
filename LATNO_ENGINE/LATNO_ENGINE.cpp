@@ -3,11 +3,12 @@
 #include "UserClasses/declarations/ExampleApp.h"
 #include "UserClasses/declarations/RadiusApp.h"
 #include "UserClasses/declarations/SillyApp.h"
+#include "UserClasses/declarations/ChessApp.h"
 
 int main()
 {
 
-	ExampleApp* app = new ExampleApp;
+	ChessApp* app = new ChessApp;
 	app->Startup();
 	delete app;
 
